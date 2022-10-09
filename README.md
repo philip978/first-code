@@ -1,2 +1,3 @@
 # first-code
-my first exposure
+#my first exposure
+print("hello world")
